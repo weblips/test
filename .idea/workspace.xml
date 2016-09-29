@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69b0721e-3599-4b3a-9a65-039bcf3fda4c" name="Default" comment="" />
+    <ignored path="magento.test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="magento.test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2006">
+              <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+              <folding>
+                <element signature="e#6#421#0#PHP" expanded="true" />
+                <marker date="1475050634090" expanded="true" signature="570:744" placeholder="SELECT user.... user" />
+                <marker date="1475050634090" expanded="true" signature="576:744" placeholder="select user.... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/code/Weblips/Helper/registration.php" />
+        <option value="$PROJECT_DIR$/app/code/Weblips/Helper/etc/module.xml" />
+        <option value="$PROJECT_DIR$/app/code/Weblips/Admin/registration.php" />
+        <option value="$PROJECT_DIR$/app/code/Weblips/Admin/etc/module.xml" />
+        <option value="$PROJECT_DIR$/app/code/Weblips/Admin/etc/adminhtml/routes.xml" />
+        <option value="$PROJECT_DIR$/app/code/Weblips/Admin/Controller/Adminhtml/Adminwith.php" />
+        <option value="$PROJECT_DIR$/app/code/Weblips/Admin/etc/adminhtml/menu.xml" />
+        <option value="$PROJECT_DIR$/app/etc/config.php" />
+        <option value="$PROJECT_DIR$/app/code/Foggyline/Office/registration.php" />
+        <option value="$PROJECT_DIR$/app/code/Foggyline/Office/etc/module.xml" />
+        <option value="$PROJECT_DIR$/app/code/Foggyline/Office/Model/Department.php" />
+        <option value="$PROJECT_DIR$/app/code/Foggyline/Office/Model/ResourceModel/Department.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="43" />
+    <option name="y" value="24" />
+    <option name="width" value="1397" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento.test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento.test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magento.test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/code/Foggyline/Office/Model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/code/Weblips/Admin" />
+      <recent name="$PROJECT_DIR$/app/code/Weblips/Helper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69b0721e-3599-4b3a-9a65-039bcf3fda4c" name="Default" comment="" />
+      <created>1471727205424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1471727205424</updated>
+      <workItem from="1471727207683" duration="1187000" />
+      <workItem from="1471775396804" duration="582000" />
+      <workItem from="1471855395869" duration="1482000" />
+      <workItem from="1472101163229" duration="164000" />
+      <workItem from="1472195995091" duration="1766000" />
+      <workItem from="1472199661520" duration="1531000" />
+      <workItem from="1473769424676" duration="621000" />
+      <workItem from="1474987477888" duration="13834000" />
+      <workItem from="1475041595136" duration="7955000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29122000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="43" y="24" width="1397" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28793487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17420213" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/AdminNotification/etc/adminhtml/routes.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/AdminNotification/Controller/Adminhtml/Notification/Index.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/Email/Controller/Adminhtml/Email/Template.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/Email/etc/adminhtml/menu.xml" />
+    <entry file="file://$PROJECT_DIR$/var/report/210475287923" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/CustomerSampleData/registration.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/CustomerSampleData/etc/module.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/SampleData/etc/module.xml" />
+    <entry file="file://$PROJECT_DIR$/app/etc/env.php" />
+    <entry file="file://$PROJECT_DIR$/app/etc/config.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/AdminNotification/etc/adminhtml/routes.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/AdminNotification/Controller/Adminhtml/Notification/Index.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/Email/Controller/Adminhtml/Email/Template.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/Email/etc/adminhtml/menu.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/AdminNotification/etc/adminhtml/routes.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/AdminNotification/Controller/Adminhtml/Notification/Index.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/Email/Controller/Adminhtml/Email/Template.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Helper/etc/module.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Admin/registration.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Admin/etc/module.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Admin/etc/adminhtml/routes.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Admin/Controller/Adminhtml/Adminwith.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Admin/etc/adminhtml/menu.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/Email/etc/adminhtml/menu.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/AdminNotification/etc/adminhtml/routes.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/AdminNotification/Controller/Adminhtml/Notification/Index.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/Email/Controller/Adminhtml/Email/Template.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Helper/etc/di.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Helper/registration.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Helper/etc/module.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Admin/registration.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Admin/etc/module.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Admin/etc/adminhtml/routes.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/Email/Controller/Adminhtml/Email/Template.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Admin/Controller/Adminhtml/Adminwith.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/AdminNotification/Controller/Adminhtml/Notification.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Weblips/Admin/etc/adminhtml/menu.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/Email/etc/adminhtml/menu.xml" />
+    <entry file="file://$PROJECT_DIR$/var/report/210475287923" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/CustomerSampleData/registration.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/CustomerSampleData/etc/module.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/SampleData/etc/module.xml" />
+    <entry file="file://$PROJECT_DIR$/app/etc/env.php" />
+    <entry file="file://$PROJECT_DIR$/app/etc/config.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/AdminNotification/etc/adminhtml/routes.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Magento/AdminNotification/Controller/Adminhtml/Notification/Index.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Foggyline/Office/registration.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Foggyline/Office/etc/module.xml" />
+    <entry file="file://$PROJECT_DIR$/app/code/Foggyline/Office/Model/Department.php" />
+    <entry file="file://$PROJECT_DIR$/app/code/Foggyline/Office/Model/ResourceModel/Department.php" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2006">
+          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+          <folding>
+            <element signature="e#6#421#0#PHP" expanded="true" />
+            <marker date="1475050634090" expanded="true" signature="570:744" placeholder="SELECT user.... user" />
+            <marker date="1475050634090" expanded="true" signature="576:744" placeholder="select user.... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
